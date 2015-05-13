@@ -1,0 +1,2 @@
+--allow-all-external
+Django==1.8.1
