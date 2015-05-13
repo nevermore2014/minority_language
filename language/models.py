@@ -12,4 +12,4 @@ class Video(models.Model):
     video_url = models.CharField(max_length=300)
     pub_date = models.DateTimeField('date published')
 
-
+# test
