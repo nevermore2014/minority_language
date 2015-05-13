@@ -1,0 +1,1 @@
+web: gunicorn minoritylanguage.wsgi --log-file -
